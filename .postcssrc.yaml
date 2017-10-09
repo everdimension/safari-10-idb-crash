@@ -1,0 +1,2 @@
+plugins:
+  autoprefixer: {} # browserslist config is in package.json
